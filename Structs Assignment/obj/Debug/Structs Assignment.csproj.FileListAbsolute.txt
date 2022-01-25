@@ -1,0 +1,8 @@
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Structs Assignment\bin\Debug\Structs Assignment.exe.config
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Structs Assignment\bin\Debug\Structs Assignment.exe
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Structs Assignment\bin\Debug\Structs Assignment.pdb
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Structs Assignment\obj\Debug\Structs Assignment.csproj.AssemblyReference.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Structs Assignment\obj\Debug\Structs Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Structs Assignment\obj\Debug\Structs Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Structs Assignment\obj\Debug\Structs Assignment.exe
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Structs Assignment\obj\Debug\Structs Assignment.pdb

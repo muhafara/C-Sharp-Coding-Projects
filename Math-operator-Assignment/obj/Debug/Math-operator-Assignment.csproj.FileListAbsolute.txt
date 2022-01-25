@@ -1,0 +1,7 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Math-operator-Assignment\bin\Debug\Math-operator-Assignment.exe.config
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Math-operator-Assignment\bin\Debug\Math-operator-Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Math-operator-Assignment\bin\Debug\Math-operator-Assignment.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Math-operator-Assignment\obj\Debug\Math-operator-Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Math-operator-Assignment\obj\Debug\Math-operator-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Math-operator-Assignment\obj\Debug\Math-operator-Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Math-operator-Assignment\obj\Debug\Math-operator-Assignment.pdb

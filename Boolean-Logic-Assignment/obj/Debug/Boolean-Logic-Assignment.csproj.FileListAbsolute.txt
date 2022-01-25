@@ -1,0 +1,8 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Boolean-Logic-Assignment\bin\Debug\Boolean-Logic-Assignment.exe.config
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Boolean-Logic-Assignment\bin\Debug\Boolean-Logic-Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Boolean-Logic-Assignment\bin\Debug\Boolean-Logic-Assignment.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Boolean-Logic-Assignment\obj\Debug\Boolean-Logic-Assignment.csproj.AssemblyReference.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Boolean-Logic-Assignment\obj\Debug\Boolean-Logic-Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Boolean-Logic-Assignment\obj\Debug\Boolean-Logic-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Boolean-Logic-Assignment\obj\Debug\Boolean-Logic-Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Boolean-Logic-Assignment\obj\Debug\Boolean-Logic-Assignment.pdb

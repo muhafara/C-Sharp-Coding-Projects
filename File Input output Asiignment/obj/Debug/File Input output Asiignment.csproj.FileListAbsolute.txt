@@ -1,0 +1,8 @@
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\File Input output Asiignment\bin\Debug\File Input output Asiignment.exe.config
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\File Input output Asiignment\bin\Debug\File Input output Asiignment.exe
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\File Input output Asiignment\bin\Debug\File Input output Asiignment.pdb
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\File Input output Asiignment\obj\Debug\File Input output Asiignment.csproj.AssemblyReference.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\File Input output Asiignment\obj\Debug\File Input output Asiignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\File Input output Asiignment\obj\Debug\File Input output Asiignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\File Input output Asiignment\obj\Debug\File Input output Asiignment.exe
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\File Input output Asiignment\obj\Debug\File Input output Asiignment.pdb

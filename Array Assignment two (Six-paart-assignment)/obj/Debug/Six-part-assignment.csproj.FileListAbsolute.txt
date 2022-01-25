@@ -1,0 +1,8 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Array Assignment two (Six-paart-assignment)\bin\Debug\Array Assignment two (Six-paart-assignment).exe.config
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Array Assignment two (Six-paart-assignment)\bin\Debug\Array Assignment two (Six-paart-assignment).exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Array Assignment two (Six-paart-assignment)\bin\Debug\Array Assignment two (Six-paart-assignment).pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Array Assignment two (Six-paart-assignment)\obj\Debug\Six-part-assignment.csproj.AssemblyReference.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Array Assignment two (Six-paart-assignment)\obj\Debug\Six-part-assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Array Assignment two (Six-paart-assignment)\obj\Debug\Six-part-assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Array Assignment two (Six-paart-assignment)\obj\Debug\Array Assignment two (Six-paart-assignment).exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Array Assignment two (Six-paart-assignment)\obj\Debug\Array Assignment two (Six-paart-assignment).pdb

@@ -1,0 +1,8 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Exception Assignmentt\bin\Debug\Exception Assignmentt.exe.config
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Exception Assignmentt\bin\Debug\Exception Assignmentt.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Exception Assignmentt\bin\Debug\Exception Assignmentt.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Exception Assignmentt\obj\Debug\Exception Assignmentt.csproj.AssemblyReference.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Exception Assignmentt\obj\Debug\Exception Assignmentt.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Exception Assignmentt\obj\Debug\Exception Assignmentt.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Exception Assignmentt\obj\Debug\Exception Assignmentt.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Exception Assignmentt\obj\Debug\Exception Assignmentt.pdb

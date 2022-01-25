@@ -1,0 +1,8 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\bin\Debug\ArraysAssignment.exe.config
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\bin\Debug\ArraysAssignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\bin\Debug\ArraysAssignment.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\obj\Debug\ArraysAssignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\obj\Debug\ArraysAssignment.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.AssemblyReference.cache

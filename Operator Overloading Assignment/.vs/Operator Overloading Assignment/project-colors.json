@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23e63c8e-2a6f-45af-91a1-1c88de9f4efa": {
+      "ProjectGuid": "23e63c8e-2a6f-45af-91a1-1c88de9f4efa",
+      "DisplayName": "Operator Overloading Assignment",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Operator Overloading Assignment\bin\Debug\Operator Overloading Assignment.exe.config
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Operator Overloading Assignment\bin\Debug\Operator Overloading Assignment.exe
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Operator Overloading Assignment\bin\Debug\Operator Overloading Assignment.pdb
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Operator Overloading Assignment\obj\Debug\Operator Overloading Assignment.csproj.AssemblyReference.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Operator Overloading Assignment\obj\Debug\Operator Overloading Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Operator Overloading Assignment\obj\Debug\Operator Overloading Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Operator Overloading Assignment\obj\Debug\Operator Overloading Assignment.exe
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Operator Overloading Assignment\obj\Debug\Operator Overloading Assignment.pdb

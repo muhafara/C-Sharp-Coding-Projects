@@ -1,0 +1,7 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Daily-report-Assignment\bin\Debug\Daily-report-Assignment.exe.config
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Daily-report-Assignment\bin\Debug\Daily-report-Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Daily-report-Assignment\bin\Debug\Daily-report-Assignment.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Daily-report-Assignment\obj\Debug\Daily-report-Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Daily-report-Assignment\obj\Debug\Daily-report-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Daily-report-Assignment\obj\Debug\Daily-report-Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Daily-report-Assignment\obj\Debug\Daily-report-Assignment.pdb

@@ -1,0 +1,8 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Income Comprision Operators\bin\Debug\Income Comprision Operators.exe.config
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Income Comprision Operators\bin\Debug\Income Comprision Operators.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Income Comprision Operators\bin\Debug\Income Comprision Operators.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Income Comprision Operators\obj\Debug\Income Comprision Operators.csproj.AssemblyReference.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Income Comprision Operators\obj\Debug\Income Comprision Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Income Comprision Operators\obj\Debug\Income Comprision Operators.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Income Comprision Operators\obj\Debug\Income Comprision Operators.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Income Comprision Operators\obj\Debug\Income Comprision Operators.pdb

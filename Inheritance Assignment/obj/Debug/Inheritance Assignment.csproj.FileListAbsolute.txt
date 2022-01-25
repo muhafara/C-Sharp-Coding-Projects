@@ -1,0 +1,8 @@
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Inheritance Assignment\bin\Debug\Inheritance Assignment.exe.config
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Inheritance Assignment\bin\Debug\Inheritance Assignment.exe
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Inheritance Assignment\bin\Debug\Inheritance Assignment.pdb
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Inheritance Assignment\obj\Debug\Inheritance Assignment.csproj.AssemblyReference.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Inheritance Assignment\obj\Debug\Inheritance Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Inheritance Assignment\obj\Debug\Inheritance Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Inheritance Assignment\obj\Debug\Inheritance Assignment.exe
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Inheritance Assignment\obj\Debug\Inheritance Assignment.pdb

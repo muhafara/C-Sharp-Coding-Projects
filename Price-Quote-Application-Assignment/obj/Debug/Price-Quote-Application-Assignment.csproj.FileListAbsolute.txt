@@ -1,0 +1,8 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Price-Quote-Application-Assignment\bin\Debug\Price-Quote-Application-Assignment.exe.config
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Price-Quote-Application-Assignment\bin\Debug\Price-Quote-Application-Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Price-Quote-Application-Assignment\bin\Debug\Price-Quote-Application-Assignment.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Price-Quote-Application-Assignment\obj\Debug\Price-Quote-Application-Assignment.csproj.AssemblyReference.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Price-Quote-Application-Assignment\obj\Debug\Price-Quote-Application-Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Price-Quote-Application-Assignment\obj\Debug\Price-Quote-Application-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Price-Quote-Application-Assignment\obj\Debug\Price-Quote-Application-Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Price-Quote-Application-Assignment\obj\Debug\Price-Quote-Application-Assignment.pdb

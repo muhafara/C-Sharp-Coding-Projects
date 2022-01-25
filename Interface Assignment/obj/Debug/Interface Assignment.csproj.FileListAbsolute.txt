@@ -1,0 +1,8 @@
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Interface Assignment\bin\Debug\Interface Assignment.exe.config
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Interface Assignment\bin\Debug\Interface Assignment.exe
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Interface Assignment\bin\Debug\Interface Assignment.pdb
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Interface Assignment\obj\Debug\Interface Assignment.csproj.AssemblyReference.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Interface Assignment\obj\Debug\Interface Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Interface Assignment\obj\Debug\Interface Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Interface Assignment\obj\Debug\Interface Assignment.exe
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Interface Assignment\obj\Debug\Interface Assignment.pdb

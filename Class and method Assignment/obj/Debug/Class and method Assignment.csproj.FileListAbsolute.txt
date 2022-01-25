@@ -1,0 +1,8 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Class and method Assignment\bin\Debug\Class and method Assignment.exe.config
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Class and method Assignment\bin\Debug\Class and method Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Class and method Assignment\bin\Debug\Class and method Assignment.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Class and method Assignment\obj\Debug\Class and method Assignment.csproj.AssemblyReference.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Class and method Assignment\obj\Debug\Class and method Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Class and method Assignment\obj\Debug\Class and method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Class and method Assignment\obj\Debug\Class and method Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Class and method Assignment\obj\Debug\Class and method Assignment.pdb

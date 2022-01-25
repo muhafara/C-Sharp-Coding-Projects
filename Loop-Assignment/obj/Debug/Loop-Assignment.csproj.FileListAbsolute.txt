@@ -1,0 +1,7 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Loop-Assignment\bin\Debug\Loop-Assignment.exe.config
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Loop-Assignment\bin\Debug\Loop-Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Loop-Assignment\bin\Debug\Loop-Assignment.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Loop-Assignment\obj\Debug\Loop-Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Loop-Assignment\obj\Debug\Loop-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Loop-Assignment\obj\Debug\Loop-Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Loop-Assignment\obj\Debug\Loop-Assignment.pdb
