@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79543bba-6da5-4481-b5be-ea4805fbbf2d": {
+      "ProjectGuid": "79543bba-6da5-4481-b5be-ea4805fbbf2d",
+      "DisplayName": "Simple DotNet Core Project",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
