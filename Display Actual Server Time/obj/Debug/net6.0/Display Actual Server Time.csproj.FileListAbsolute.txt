@@ -1,0 +1,26 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\Display Actual Server Time.csproj.AssemblyReference.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\Display Actual Server Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\Display Actual Server Time.AssemblyInfoInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\Display Actual Server Time.AssemblyInfo.cs
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\Display Actual Server Time.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\Display Actual Server Time.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\Display Actual Server Time.RazorAssemblyInfo.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\Display Actual Server Time.RazorAssemblyInfo.cs
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\bin\Debug\net6.0\appsettings.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\bin\Debug\net6.0\Display Actual Server Time.staticwebassets.runtime.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\bin\Debug\net6.0\Display Actual Server Time.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\bin\Debug\net6.0\Display Actual Server Time.deps.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\bin\Debug\net6.0\Display Actual Server Time.runtimeconfig.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\bin\Debug\net6.0\Display Actual Server Time.dll
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\bin\Debug\net6.0\ref\Display Actual Server Time.dll
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\bin\Debug\net6.0\Display Actual Server Time.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\scopedcss\bundle\Display Actual Server Time.styles.css
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\scopedcss\projectbundle\Display Actual Server Time.bundle.scp.css
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\Display Actual Server Time.dll
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\ref\Display Actual Server Time.dll
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\Display Actual Server Time.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Display Actual Server Time\obj\Debug\net6.0\Display Actual Server Time.genruntimeconfig.cache
