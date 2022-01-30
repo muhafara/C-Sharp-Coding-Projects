@@ -1,0 +1,25 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\bin\Debug\net6.0\appsettings.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\bin\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.staticwebassets.runtime.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\bin\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\bin\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.deps.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\bin\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.runtimeconfig.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\bin\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.dll
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\bin\Debug\net6.0\ref\ASP DOT NET CORE WEBSITE FOR AZURE.dll
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\bin\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.AssemblyInfoInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.AssemblyInfo.cs
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.RazorAssemblyInfo.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.RazorAssemblyInfo.cs
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\scopedcss\bundle\ASP DOT NET CORE WEBSITE FOR AZURE.styles.css
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\scopedcss\projectbundle\ASP DOT NET CORE WEBSITE FOR AZURE.bundle.scp.css
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.dll
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\ref\ASP DOT NET CORE WEBSITE FOR AZURE.dll
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Debug\net6.0\ASP DOT NET CORE WEBSITE FOR AZURE.genruntimeconfig.cache

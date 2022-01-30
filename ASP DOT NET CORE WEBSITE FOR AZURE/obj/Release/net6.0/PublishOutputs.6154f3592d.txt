@@ -1,0 +1,7 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Release\net6.0\PubTmp\Out\ASP DOT NET CORE WEBSITE FOR AZURE.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Release\net6.0\PubTmp\Out\ASP DOT NET CORE WEBSITE FOR AZURE.dll
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Release\net6.0\PubTmp\Out\ASP DOT NET CORE WEBSITE FOR AZURE.deps.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Release\net6.0\PubTmp\Out\ASP DOT NET CORE WEBSITE FOR AZURE.runtimeconfig.json
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\ASP DOT NET CORE WEBSITE FOR AZURE\obj\Release\net6.0\PubTmp\Out\ASP DOT NET CORE WEBSITE FOR AZURE.pdb

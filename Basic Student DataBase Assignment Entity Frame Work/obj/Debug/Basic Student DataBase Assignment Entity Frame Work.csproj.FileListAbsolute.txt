@@ -1,0 +1,13 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Basic Student DataBase Assignment Entity Frame Work\bin\Debug\Basic Student DataBase Assignment Entity Frame Work.exe.config
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Basic Student DataBase Assignment Entity Frame Work\bin\Debug\Basic Student DataBase Assignment Entity Frame Work.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Basic Student DataBase Assignment Entity Frame Work\bin\Debug\Basic Student DataBase Assignment Entity Frame Work.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Basic Student DataBase Assignment Entity Frame Work\bin\Debug\EntityFramework.dll
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Basic Student DataBase Assignment Entity Frame Work\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Basic Student DataBase Assignment Entity Frame Work\bin\Debug\EntityFramework.xml
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Basic Student DataBase Assignment Entity Frame Work\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Basic Student DataBase Assignment Entity Frame Work\obj\Debug\Basic Student DataBase Assignment Entity Frame Work.csproj.AssemblyReference.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Basic Student DataBase Assignment Entity Frame Work\obj\Debug\Basic Student DataBase Assignment Entity Frame Work.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Basic Student DataBase Assignment Entity Frame Work\obj\Debug\Basic Student DataBase Assignment Entity Frame Work.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Basic Student DataBase Assignment Entity Frame Work\obj\Debug\Basic Student DataBase Assignment Entity Frame Work.csproj.CopyComplete
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Basic Student DataBase Assignment Entity Frame Work\obj\Debug\Basic Student DataBase Assignment Entity Frame Work.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Basic Student DataBase Assignment Entity Frame Work\obj\Debug\Basic Student DataBase Assignment Entity Frame Work.pdb
