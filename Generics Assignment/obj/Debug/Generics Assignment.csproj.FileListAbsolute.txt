@@ -1,0 +1,8 @@
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Generics Assignment\bin\Debug\Generics Assignment.exe.config
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Generics Assignment\bin\Debug\Generics Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Generics Assignment\bin\Debug\Generics Assignment.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Generics Assignment\obj\Debug\Generics Assignment.csproj.AssemblyReference.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Generics Assignment\obj\Debug\Generics Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Generics Assignment\obj\Debug\Generics Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Generics Assignment\obj\Debug\Generics Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Generics Assignment\obj\Debug\Generics Assignment.pdb
