@@ -47,7 +47,8 @@ namespace Lambda_Expression_Assignment
                     LIST OF EMPLOYEE USING FOREACH LOOP, FIRST NAME JOE
              ********************************************************************************************************/
 
-
+            //Hi instructor this is the point where I need help with.
+            //I'm trying to create a list using foreach loop
             foreach (var list in EmployeesListFirstNameJoe)
             {
                 EmployeesListFirstNameJoe.Add(new Employee());
