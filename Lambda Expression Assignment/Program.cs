@@ -19,14 +19,19 @@ namespace Lambda_Expression_Assignment
           ********************************************************************************************************/
         static List<Employee> EmployeesListFirstNameJoe = new List<Employee>();
 
+        /*******************************************************************************************************
+             LIST OF EMPLOYEE HAVING FIRST NAME "JOE" USING LAMBDA EXPRESSION
+          ********************************************************************************************************/
+        static List<Employee> EmployeesListFirstNameJoeUsingLambda = new List<Employee>();
 
 
 
-        static void Main(string[] args){
-            /*           ******************************************************************************************************
-                            LIST OF 10 EMPLOYEE, TWO EMPLOYEES NAME "JOE"
-                         ********************************************************************************************************/
-            /*TenEmployee.Add(new Employee(1, "Joe", "Smith"));
+
+        static void Main(string[] args) {
+            /*******************************************************************************************************
+                    LIST OF 10 EMPLOYEE, TWO EMPLOYEES NAME "JOE"
+            ********************************************************************************************************/
+            TenEmployee.Add(new Employee(1, "Joe", "Smith"));
             TenEmployee.Add(new Employee(2, "Alex", "Mathew"));
             TenEmployee.Add(new Employee(3, "Justin", "C"));
             TenEmployee.Add(new Employee(4, "Keyle", "Josheph"));
@@ -37,62 +42,55 @@ namespace Lambda_Expression_Assignment
             TenEmployee.Add(new Employee(9, "Aliyan", "james"));
             TenEmployee.Add(new Employee(10, "Stephen", "Brian"));
 
+            //Comment the foreach to print the list of ten emloyee
 
-            foreach (var list in TenEmployee)
+            /*foreach (var list in TenEmployee)
             {
                 Console.WriteLine("\nEmployee id " + list.EmployeeID + "  Employee First Name : " + list.EmployeeFirstName +
-                                "  Employee Last Name " + list.EmployeeLastName);
+                "  Employee Last Name " + list.EmployeeLastName+"\n");
             }*/
             /*******************************************************************************************************
                     LIST OF EMPLOYEE USING FOREACH LOOP, FIRST NAME JOE
              ********************************************************************************************************/
 
-            //Hi instructor this is the point where I need help with.
-            //I'm trying to create a list using foreach loop
+            Console.WriteLine("\nUsing foreach loop to add employee with name JOE\n");
+            foreach (var list in TenEmployee)
+            {
+                if (list.EmployeeFirstName.Equals("Joe")) {
+                    EmployeesListFirstNameJoe.Add(list);
+                }
+            }
+
+
+            /*******************************************************************************************************
+                 PRINTING THE LIST OF THE EMPLOYEE WITH THE NAME JOE
+             ********************************************************************************************************/
+
+            Console.WriteLine("\nUsing foreach loop to print employee with first name JOE\n");
             foreach (var list in EmployeesListFirstNameJoe)
             {
-                EmployeesListFirstNameJoe.Add(new Employee());
-                Console.WriteLine(list);
+                Console.WriteLine("\nEmployee id " + list.EmployeeID + "  Employee First Name : " + list.EmployeeFirstName +
+                                "  Employee Last Name " + list.EmployeeLastName);
             }
 
+            /*******************************************************************************************************
+                    USING LAMBDA EXPRESSION TO ADD EMPLOYEE WITH THE NAME JOE TO A NEW LIST
+             ********************************************************************************************************/
+            Console.WriteLine("\nUsing foreach loop to add employee with name JOE using lambda exprssion\n");
+            TenEmployee.ForEach(x => { if (x.EmployeeFirstName.Equals("Joe")) { EmployeesListFirstNameJoeUsingLambda.Add(x); } });
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            /*******************************************************************************************************
+                    USING LAMBDA EXPRESSION TO MAKE A LIST OF ALL EMPLOYEES WITH ID NUMBER GREATER THAN 5
+             ********************************************************************************************************/
+            EmployeesListFirstNameJoeUsingLambda.ForEach(x => {
+                if (x.EmployeeID > 5)
+            { Console.WriteLine("Employee id " + x.EmployeeID + 
+                " Employee Name: " + x.EmployeeFirstName + 
+                " Employee Last Name: " + x.EmployeeLastName);
+                }
+            });
             Console.Read();
-        }
-
-
-     
-
-        public static void PrintEmployeeList(List<Employee> list)
-        {
-            foreach (var employee in list) {
-                Console.WriteLine("*************************************************************");
-                Console.WriteLine("Employee ID :" + employee.EmployeeID + "\nEmployee Name :" + employee.EmployeeFirstName +
-                                    "\nEmployee Last Name :" + employee.EmployeeLastName);
-                Console.WriteLine("*************************************************************");
-            }
         }
     }
 }
