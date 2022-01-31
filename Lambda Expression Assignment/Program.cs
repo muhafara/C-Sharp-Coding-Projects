@@ -53,7 +53,7 @@ namespace Lambda_Expression_Assignment
                     LIST OF EMPLOYEE USING FOREACH LOOP, FIRST NAME JOE
              ********************************************************************************************************/
 
-            Console.WriteLine("\nUsing foreach loop to add employee with name JOE\n");
+            //Console.WriteLine("\nUsing foreach loop to add employee with name JOE\n");
             foreach (var list in TenEmployee)
             {
                 if (list.EmployeeFirstName.Equals("Joe")) {
@@ -66,7 +66,7 @@ namespace Lambda_Expression_Assignment
                  PRINTING THE LIST OF THE EMPLOYEE WITH THE NAME JOE
              ********************************************************************************************************/
 
-            Console.WriteLine("\nUsing foreach loop to print employee with first name JOE\n");
+            Console.WriteLine("\nUsing foreach loop to print employee list with first name JOE\n");
             foreach (var list in EmployeesListFirstNameJoe)
             {
                 Console.WriteLine("\nEmployee id " + list.EmployeeID + "  Employee First Name : " + list.EmployeeFirstName +
@@ -76,13 +76,14 @@ namespace Lambda_Expression_Assignment
             /*******************************************************************************************************
                     USING LAMBDA EXPRESSION TO ADD EMPLOYEE WITH THE NAME JOE TO A NEW LIST
              ********************************************************************************************************/
-            Console.WriteLine("\nUsing foreach loop to add employee with name JOE using lambda exprssion\n");
+
             TenEmployee.ForEach(x => { if (x.EmployeeFirstName.Equals("Joe")) { EmployeesListFirstNameJoeUsingLambda.Add(x); } });
 
 
             /*******************************************************************************************************
                     USING LAMBDA EXPRESSION TO MAKE A LIST OF ALL EMPLOYEES WITH ID NUMBER GREATER THAN 5
              ********************************************************************************************************/
+            Console.WriteLine("\nUsing foreach loop to show the list of employees id greater than 5\n");
             EmployeesListFirstNameJoeUsingLambda.ForEach(x => {
                 if (x.EmployeeID > 5)
             { Console.WriteLine("Employee id " + x.EmployeeID + 
