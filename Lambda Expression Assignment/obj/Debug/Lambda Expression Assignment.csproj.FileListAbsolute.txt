@@ -1,0 +1,16 @@
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.exe.config
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.exe
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.pdb
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.csproj.AssemblyReference.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.exe
+C:\Users\faran\myProjectLearning\checkRepostory\Basic-C-Sharp-Projects\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.exe.config
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.pdb
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.csproj.AssemblyReference.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.exe
+C:\Users\faran\OneDrive\Desktop\Basic_C#_Programs\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.pdb
