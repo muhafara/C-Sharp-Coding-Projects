@@ -8,27 +8,14 @@ namespace DateTime_Assignment
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine(DateTime.Now);
-            Console.WriteLine("Enter the number in 24 hour format");
+            Console.WriteLine("The time now is: " + DateTime.Now);
+            Console.WriteLine("Enter a number");
             int getHour = Convert.ToInt32(Console.ReadLine());
-            int x = getHour + DateTime.Now.Hour;
+            DateTime x = DateTime.Now.AddHours(getHour);
 
-
-            if (x < 24)
-            {
-                Console.WriteLine("The exact time it will be in "+x + " : " +DateTime.Now.Minute + " : " +DateTime.Now.Second);
-            }
-            else if (x == 24)
-            {
-            Console.WriteLine("The exact time it will be in 00"  + " : " + DateTime.Now.Minute + " : " + DateTime.Now.Second);
-            }
-            else if (x > 24) 
-            {
-            Console.WriteLine("The exact time it will be in " + (x-24) + " : " + DateTime.Now.Minute + " : " + DateTime.Now.Second);
-            }
-            Console.Read();
+            Console.WriteLine("The time in " + getHour + " hours will be: " + x);
         }
     }
 }
